@@ -43,7 +43,7 @@ Entre los contenidos del curso se encuentran los siguientes:
 12:50 - 13:50
 
 ## Bloque 3
-14:00 - 15:30
+14:00 - 16:00
 
 - Análisis y visualización de datos con Python
 	- Numpy: Creación de vectores y matrices, Operaciones vectoriales, indexación, Enmascarado booleano
@@ -51,14 +51,13 @@ Entre los contenidos del curso se encuentran los siguientes:
 	- Matplotlib y Seaborn: Creación de visualizaciones
 
 ## Bloque 4
-15:30 - 17:00
+16:00 - 17:00
 
 - Machine learning
 	- Introducción a machine learning (SVM y regresión logística)
 	- Scikit-learn: Uso de librería de Machine learning de Python
 	- Regresión lineal (Ejemplo de valores de casa)
 	- Uso de método SVM para clasificación (Ejemplo de dataset Iris)
-	- Ingeniería de features (Ejemplo del titanic)
 
 ## Acerca del profesor
 
